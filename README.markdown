@@ -3,9 +3,9 @@
 This is some example code for doing MIRT (multidimensional item response theory) simulations in Python using PyMC.
 
 #### Requirements
-PyLab: http://www.scipy.org/PyLab
+[PyLab](http://www.scipy.org/PyLab)
 
-PyMC: https://github.com/pymc-devs/pymc
+[PyMC](https://github.com/pymc-devs/pymc)
 
 #### Usage
 
